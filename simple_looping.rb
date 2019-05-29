@@ -29,7 +29,7 @@ def while_iterator(number_of_times)
 end
 
 def until_iterator(number_of_times)
-  counter 
+  counter = 0 
   
   phrase = "Welcome to Flatiron School's Web Development Course!"
 
